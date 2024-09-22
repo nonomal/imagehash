@@ -55,7 +55,7 @@ jobs:
       - run: coverage run -m pytest .
       - name: Convert coverage output to lcov for coveralls
         run: |
-          coverage lcov
+          coverage lcov -o lcov.info
           # make paths relative
           sed -i s,$PWD/,,g lcov.info
       - name: prepare coveralls partial upload
