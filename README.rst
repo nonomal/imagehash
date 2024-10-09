@@ -74,7 +74,7 @@ References
 .. _aHashref: https://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html
 .. _pHashref: https://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html
 .. _dHashref: https://www.hackerfactor.com/blog/index.php?/archives/529-Kind-of-Like-That.html
-.. _wHashref: https://fullstackml.com/2016/07/02/wavelet-image-hash-in-python/
+.. _wHashref: https://fullstackml.com/wavelet-image-hash-in-python-3504fdd282b5
 .. _pypi: https://pypi.python.org/pypi/ImageHash
 .. _crop_resistant_hashref: https://ieeexplore.ieee.org/document/6980335
 
